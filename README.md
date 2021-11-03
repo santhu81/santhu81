@@ -1,3 +1,13 @@
-My name is Santhosh and I am working as a Front end developer and good in HTML, CSS, SASS, Bootstrap, Javascript, React JS.
+My name is Santhosh and I am working as a Front end developer.
+
+Technology Stacks:<br>
+<strong><ul>
+  <li>HTML</li>
+  <li>CSS / SASS </li>
+  <li>Bootstrap / Material UI</li>
+  <li>Javascript / ES6</li>
+  <li>React JS</li>
+ </ul> </strong>
+
 
 
