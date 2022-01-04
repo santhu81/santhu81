@@ -7,6 +7,8 @@ Technology Stacks:<br>
   <li>Bootstrap / Material UI</li>
   <li>Javascript / ES6</li>
   <li>React JS</li>
+  <li>Next JS</li>
+  <li>Wordpress</li>
  </ul> </strong>
 
 
